@@ -1,0 +1,15 @@
+
+body{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+p{
+    text-align: justify;
+}
+.line{
+    background-color: black;
+    height: 3px;
+}
+.copy{
+    font-size: 12px;
+}
